@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstname": "manish",
+      "lastname": "lodha",
+      "email": "manish@134gmail.com",
+      "contactno": "123456222",
+      "salary": "123456"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
